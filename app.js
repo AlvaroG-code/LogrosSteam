@@ -171,7 +171,25 @@ $("#btn-refresh").onclick = async () => {
   const st = $("#refresh-status");
   if (!IS_LOCAL) {
     window.open(WORKFLOW_URL, "_blank");
-    st.textContent = "pulsa Run workflow en GitHub; cuando esté en verde, recarga con Ctrl+F5";
+    st.textContent = "sync lanzado en GitHub: espero a que termine y recargo solo...";
+    const since = PROFILE.lastSync;
+    let tries = 0;
+    const timer = setInterval(async () => {
+      tries++;
+      try {
+        const p = await fetch("data/profile.json", { cache: "no-cache" }).then(r => r.json());
+        if (p.lastSync && p.lastSync !== since) {
+          clearInterval(timer);
+          st.textContent = "¡actualizado! recargando...";
+          setTimeout(() => location.reload(), 1500);
+        } else if (tries >= 30) {
+          clearInterval(timer);
+          st.textContent = "sigue en marcha en GitHub; recarga con Ctrl+F5 en unos minutos";
+        } else {
+          st.textContent = `esperando sync... (${tries}/30)`;
+        }
+      } catch { /* reintentar en el siguiente ciclo */ }
+    }, 30000);
     return;
   }
   st.textContent = "actualizando...";
