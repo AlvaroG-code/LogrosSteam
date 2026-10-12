@@ -48880,7 +48880,8 @@
           "achieved": true,
           "unlocktime": 1782565742
         }
-      ]
+      ],
+      "manualHours": 71.8
     },
     {
       "appid": 1888930,
@@ -49157,7 +49158,8 @@
           "achieved": true,
           "unlocktime": 1782483565
         }
-      ]
+      ],
+      "manualHours": 44.7
     },
     {
       "appid": 731490,
@@ -49839,7 +49841,8 @@
           "achieved": true,
           "unlocktime": 1779112081
         }
-      ]
+      ],
+      "manualHours": 37
     },
     {
       "appid": 1562430,
@@ -50395,7 +50398,8 @@
           "achieved": true,
           "unlocktime": 1784122306
         }
-      ]
+      ],
+      "manualHours": 31.3
     },
     {
       "appid": 2062430,
@@ -50979,7 +50983,8 @@
           "unlocktime": 1783255462
         }
       ],
-      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2062430/44a538f825381f4b58a82bab4cae1796be21fb88/capsule_616x353.jpg"
+      "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2062430/44a538f825381f4b58a82bab4cae1796be21fb88/capsule_616x353.jpg",
+      "manualHours": 40.7
     },
     {
       "appid": 50300,
@@ -51445,7 +51450,8 @@
           "achieved": true,
           "unlocktime": 1780772137
         }
-      ]
+      ],
+      "manualHours": 15.2
     }
   ]
 }
