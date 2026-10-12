@@ -73,7 +73,6 @@ function render() {
   const list = filtered();
   $("#count-completed").textContent = `(${GAMES.filter(g => g.status === "completed").length})`;
   $("#count-playing").textContent = `(${GAMES.filter(g => g.status === "playing").length})`;
-  $("#count-unstarted").textContent = `(${GAMES.filter(g => g.status === "unstarted").length})`;
   $("#count-backlog").textContent = `(${BACKLOG.length})`;
 
   $("#grid").innerHTML = list.map((g, i) => {
