@@ -9,7 +9,7 @@ lista por jugar + botón random (principal + ASUS).
 3. Copia `.env.example` a `.env` y pega tu key dentro:
    ```
    STEAM_API_KEY=9DF6E4D6DD5CCF49F04920B6A2FD336A
-   STEAM_ID=76561198124408238
+   STEAM_ID=36561128124748271
    ```
    (esa key es un ejemplo falso, pon la tuya; el archivo `.env` nunca se sube a git)
 4. Doble clic en **`iniciar-web.bat`**. Sincroniza (horas, logros, %, última sesión) y abre `http://localhost:8080`.
