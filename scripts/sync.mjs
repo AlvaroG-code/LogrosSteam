@@ -13,13 +13,13 @@ try {
 const API_KEY = process.env.STEAM_API_KEY;
 const STEAM_ID = process.env.STEAM_ID || "76561198124408238";
 if (!API_KEY) {
-  console.error("Falta STEAM_API_KEY");
+  console.error("Falta STEAM_API_KEY: en local ponla en .env; en GitHub pon el Secret STEAM_API_KEY");
   process.exit(1);
 }
 
 async function get(url) {
   const r = await fetch(url);
-  if (!r.ok) throw new Error(`HTTP ${r.status} ${url}`);
+  if (!r.ok) throw new Error(`HTTP ${r.status} ${url.replace(API_KEY, "***")}`);
   return r.json();
 }
 

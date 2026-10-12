@@ -16,6 +16,10 @@ jobs:
       - uses: actions/setup-node@v5
         with:
           node-version: 22
+      - name: Comprobar secrets
+        run: |
+          test -n "${{ secrets.STEAM_API_KEY }}" || { echo "::error::Falta el secret STEAM_API_KEY (repo > Settings > Secrets and variables > Actions)"; exit 1; }
+          test -n "${{ secrets.STEAM_ID }}" || echo "::warning::Falta el secret STEAM_ID, se usara el ID por defecto"
       - run: node scripts/sync.mjs
         env:
           STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
