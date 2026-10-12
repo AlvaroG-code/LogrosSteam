@@ -101,7 +101,12 @@ for (const g of sorted.slice(MAX_DETAIL)) {
 let prev = { games: [] };
 try { prev = JSON.parse(await readFile("data/games.json", "utf8")); } catch {}
 const manualCompleted = new Set((prev.games || []).filter(g => g.manualCompleted).map(g => g.appid));
-out.forEach(g => { if (manualCompleted.has(g.appid)) { g.completed = true; g.manualCompleted = true; } });
+const manualHours = {};
+(prev.games || []).forEach(g => { if (g.manualHours) manualHours[g.appid] = g.manualHours; });
+out.forEach(g => {
+  if (manualCompleted.has(g.appid)) { g.completed = true; g.manualCompleted = true; }
+  if (manualHours[g.appid]) g.manualHours = manualHours[g.appid];
+});
 
 // Reincorporar juegos de data/extra.json (perfectos que GetOwnedGames no devuelve)
 try {

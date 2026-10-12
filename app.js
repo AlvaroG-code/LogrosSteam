@@ -37,6 +37,16 @@ function renderHeader() {
   $("#last-sync").textContent = PROFILE.lastSync ? `· sync ${new Date(PROFILE.lastSync).toLocaleString()}` : "";
 }
 
+function fmtHours(g) {
+  const mins = g.manualHours ? g.manualHours * 60 : (g.playtime_forever_min || 0);
+  return (mins / 60).toFixed(1);
+}
+
+function completedDate(g) {
+  const times = (g.achievements || []).filter(a => a.achieved && a.unlocktime).map(a => a.unlocktime);
+  return times.length ? new Date(Math.max(...times) * 1000).toLocaleDateString() : null;
+}
+
 function sorter(mode) {
   const val = (g, f) => (g[f] ?? -1);
   if (mode === "hours") return (a, b) => val(b, "playtime_forever_min") - val(a, "playtime_forever_min");
@@ -71,7 +81,7 @@ function render() {
         <div class="cover"><img loading="lazy" src="https://cdn.fastly.steamstatic.com/steam/apps/${g.appid}/header.jpg" onerror="this.style.display='none'" alt="" />${g.asus ? '<span class="pct">🎮 ASUS</span>' : ""}</div>
         <div class="card-body"><h3>${g.name}</h3><div class="meta"><span>${g.note || "en lista por jugar"}</span></div></div></div>`;
     }
-    const hours = ((g.playtime_forever_min || 0) / 60).toFixed(1);
+    const hours = fmtHours(g);
     const last = g.rtime_last_played ? new Date(g.rtime_last_played * 1000).toLocaleDateString() : "—";
     const pct = g.percent ?? 0;
     return `<div class="card ${g.completed ? "done" : ""}" data-appid="${g.appid}" style="animation-delay:${Math.min(i * 30, 500)}ms">
@@ -94,8 +104,9 @@ function render() {
 function openModal(appid) {
   const g = GAMES.find(x => x.appid === appid);
   if (!g) return;
-  const hours = ((g.playtime_forever_min || 0) / 60).toFixed(1);
+  const hours = fmtHours(g);
   const last = g.rtime_last_played ? new Date(g.rtime_last_played * 1000).toLocaleString() : "—";
+  const doneDate = completedDate(g);
   const ach = (g.achievements || []).map(a => `
     <div class="ach ${a.achieved ? "" : "locked"}">
       <img src="${a.achieved ? a.icon : (a.icongray || a.icon)}" alt="" loading="lazy" />
@@ -108,7 +119,8 @@ function openModal(appid) {
       <span class="chip">⏱ ${hours} h</span>
       <span class="chip">🏅 ${g.unlockedAchievements ?? "?"} / ${g.totalAchievements ?? "?"} (${g.percent ?? "?"}%)</span>
       <span class="chip">🕓 ${last}</span>
-      ${g.completed ? '<span class="chip gold">100% COMPLETADO</span>' : ""}
+      ${g.completed && doneDate ? `<span class="chip gold">🏁 Completado el ${doneDate}</span>` : ""}
+      ${g.completed && !doneDate ? '<span class="chip gold">100% COMPLETADO</span>' : ""}
     </div>
     <p><a href="https://store.steampowered.com/app/${g.appid}" target="_blank" rel="noopener">Ver en Steam ↗</a></p>
     <h3>Logros (${g.unlockedAchievements ?? "?"} / ${g.totalAchievements ?? "?"})</h3>${ach}`;
@@ -132,7 +144,7 @@ document.onkeydown = (e) => { if (e.key === "Escape") $("#modal").classList.add(
 function pickInfo(g) {
   const owned = GAMES.find(x => x.appid === g.appid);
   const extra = owned
-    ? `<br/><small>⏱ ${(owned.playtime_forever_min / 60).toFixed(1)} h · ${owned.percent ?? "?"}% logros</small>`
+    ? `<br/><small>⏱ ${fmtHours(owned)} h · ${owned.percent ?? "?"}% logros</small>`
     : `<br/><small>aún no empezado</small>`;
   return `<b>${g.name}</b>${g.note ? `<br/><small>${g.note}</small>` : ""}${extra}<br/><a href="https://store.steampowered.com/app/${g.appid}" target="_blank" rel="noopener">Ver en Steam ↗</a>`;
 }
