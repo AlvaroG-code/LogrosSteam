@@ -45,6 +45,10 @@ function sorter(mode) {
   return (a, b) => val(b, "percent") - val(a, "percent") || val(b, "playtime_forever_min") - val(a, "playtime_forever_min");
 }
 
+function cover(g) {
+  return g.img || `https://cdn.fastly.steamstatic.com/steam/apps/${g.appid}/header.jpg`;
+}
+
 function filtered() {
   const q = ($("#search").value || "").toLowerCase();
   const sort = sorter($("#sort").value);
@@ -72,7 +76,7 @@ function render() {
     const pct = g.percent ?? 0;
     return `<div class="card ${g.completed ? "done" : ""}" data-appid="${g.appid}" style="animation-delay:${Math.min(i * 30, 500)}ms">
       <div class="cover">
-        <img loading="lazy" src="https://cdn.fastly.steamstatic.com/steam/apps/${g.appid}/header.jpg" alt="${g.name}" />
+        <img loading="lazy" src="${cover(g)}" alt="${g.name}" onerror="this.style.display='none'" />
         <span class="pct">${g.totalAchievements ? `${g.unlockedAchievements}/${g.totalAchievements}` : `${pct}%`}</span>
       </div>
       <div class="card-body">
@@ -99,7 +103,7 @@ function openModal(appid) {
     </div>`).join("") || "<p>Este juego no tiene logros o no se pudo leer el detalle.</p>";
   $("#modal-body").innerHTML = `
     <h2>${g.completed ? "🏆 " : ""}${g.name}</h2>
-    <img class="hero-img" src="https://cdn.fastly.steamstatic.com/steam/apps/${g.appid}/header.jpg" />
+    <img class="hero-img" src="${cover(g)}" onerror="this.style.display='none'" />
     <div class="chips">
       <span class="chip">⏱ ${hours} h</span>
       <span class="chip">🏅 ${g.unlockedAchievements ?? "?"} / ${g.totalAchievements ?? "?"} (${g.percent ?? "?"}%)</span>
