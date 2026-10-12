@@ -1,0 +1,25 @@
+{
+  "note": "Lista por jugar. 'asus:true' = apto para la ASUS (el botón sortea uno principal + uno ASUS). Edita flags a tu gusto.",
+  "backlog": [
+    { "appid": 570940, "name": "DARK SOULS: Remastered", "asus": false, "note": "" },
+    { "appid": 588650, "name": "Dead Cells", "asus": true, "note": "" },
+    { "appid": 367520, "name": "Hollow Knight", "asus": true, "note": "" },
+    { "appid": 1245620, "name": "ELDEN RING", "asus": false, "note": "" },
+    { "appid": 814380, "name": "Sekiro: Shadows Die Twice", "asus": false, "note": "" },
+    { "appid": 2054970, "name": "Dragon's Dogma 2", "asus": false, "note": "" },
+    { "appid": 1235140, "name": "Yakuza: Like a Dragon", "asus": true, "note": "por turnos, ideal ASUS" },
+    { "appid": 1086940, "name": "Baldur's Gate 3", "asus": false, "note": "" },
+    { "appid": 1588550, "name": "Cairn", "asus": true, "note": "" },
+    { "appid": 1378990, "name": "Crash Bandicoot 4: It's About Time", "asus": false, "note": "" },
+    { "appid": 1190460, "name": "Death Stranding Director's Cut", "asus": false, "note": "" },
+    { "appid": 1593500, "name": "God of War", "asus": false, "note": "" },
+    { "appid": 379430, "name": "Kingdom Come: Deliverance", "asus": false, "note": "" },
+    { "appid": 606150, "name": "Moonlighter", "asus": true, "note": "" },
+    { "appid": 524220, "name": "NieR:Automata", "asus": false, "note": "" },
+    { "appid": 1971650, "name": "Octopath Traveler II", "asus": true, "note": "" },
+    { "appid": 1687950, "name": "Persona 5 Royal", "asus": true, "note": "" },
+    { "appid": 2094910, "name": "Pile Up!", "asus": true, "note": "" },
+    { "appid": 201810, "name": "Wolfenstein: The New Order", "asus": false, "note": "empieza la saga por aquí" },
+    { "appid": 1244090, "name": "Sea of Stars", "asus": true, "note": "" }
+  ]
+}

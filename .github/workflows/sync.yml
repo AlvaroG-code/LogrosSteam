@@ -1,0 +1,29 @@
+name: Sync Steam
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node scripts/sync.mjs
+        env:
+          STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+          STEAM_ID: ${{ secrets.STEAM_ID }}
+      - name: Commit data
+        run: |
+          git config user.name "steam-bot"
+          git config user.email "steam-bot@users.noreply.github.com"
+          git add data/games.json data/profile.json
+          git diff --cached --quiet || git commit -m "sync steam $(date -u +%F)"
+          git push

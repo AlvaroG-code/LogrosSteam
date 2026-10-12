@@ -1,0 +1,11 @@
+{
+  "name": "alvaro-steam-local",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync": "node scripts/sync.mjs",
+    "serve": "node scripts/server.mjs",
+    "start": "node scripts/sync.mjs && node scripts/server.mjs"
+  }
+}

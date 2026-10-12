@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>アルバロ | Steam Completionist</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800&family=Zen+Kaku+Gothic+New:wght@700;900&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<div class="bg-orbs"></div>
+<header class="hero">
+  <div class="hero-inner">
+    <div class="avatar-wrap">
+      <img id="avatar" class="avatar" src="https://avatars.fastly.steamstatic.com/435c02af1054782ce95af47ce79f362aeb966037_full.jpg" alt="Avatar de アルバロ" />
+    </div>
+    <div class="hero-text">
+      <p class="kicker">実績 · STEAM COMPLETIONIST</p>
+      <h1>アルバロ</h1>
+      <p class="subtitle">日本 . 東京 — Spain · en Steam desde 2014</p>
+      <p class="links"><a id="steam-link" href="https://steamcommunity.com/id/torta3run/" target="_blank" rel="noopener">Ver perfil de Steam ↗</a>
+        <button id="btn-refresh" class="ghost-btn">↻ Actualizar desde Steam</button>
+        <span id="refresh-status" class="sync"></span>
+        <span id="last-sync" class="sync"></span></p>
+      <div class="stats" id="stats"></div>
+    </div>
+    <div class="random-box">
+      <h2>🎲 ¿A qué juego ahora?</h2>
+      <p>Cada tirada genera dos: próximo principal + uno para la ASUS.</p>
+      <button id="btn-random">Tirar dados</button>
+      <div id="random-result" class="random-result hidden"></div>
+    </div>
+  </div>
+</header>
+
+<nav class="tabs">
+  <div class="tab-pills">
+    <button data-tab="completed" class="active">🏆 Completados <span id="count-completed"></span></button>
+    <button data-tab="playing">🎮 En curso <span id="count-playing"></span></button>
+    <button data-tab="unstarted">🆕 Por empezar <span id="count-unstarted"></span></button>
+    <button data-tab="backlog">📝 Por jugar <span id="count-backlog"></span></button>
+  </div>
+  <div class="tools">
+    <select id="sort" title="Ordenar">
+      <option value="progress">Orden: progreso</option>
+      <option value="hours">Orden: horas</option>
+      <option value="last">Orden: última sesión</option>
+      <option value="name">Orden: nombre</option>
+    </select>
+    <input id="search" type="search" placeholder="🔎 Buscar juego..." />
+  </div>
+</nav>
+
+<main>
+  <section id="grid" class="grid"></section>
+</main>
+
+<div id="modal" class="modal hidden">
+  <div class="modal-card">
+    <button id="modal-close">✕</button>
+    <div id="modal-body"></div>
+  </div>
+</div>
+
+<footer>
+  <p>アルバロ · datos de <a href="https://steamcommunity.com/id/torta3run/" target="_blank" rel="noopener">Steam</a> · todo en local</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

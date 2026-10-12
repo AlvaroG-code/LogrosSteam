@@ -1,0 +1,11 @@
+{
+  "note": "AppIDs perfectos que GetOwnedGames no devuelve; el sync los conserva",
+  "appids": [
+    1903340,
+    1888930,
+    731490,
+    1562430,
+    2062430,
+    50300
+  ]
+}
