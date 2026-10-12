@@ -4,10 +4,11 @@ let activeTab = "completed";
 const $ = (s) => document.querySelector(s);
 
 async function load() {
+  const opts = { cache: "no-cache" };
   const [p, g, b] = await Promise.all([
-    fetch("data/profile.json").then(r => r.json()),
-    fetch("data/games.json").then(r => r.json()),
-    fetch("data/backlog.json").then(r => r.json()).catch(() => ({ backlog: [] }))
+    fetch("data/profile.json", opts).then(r => r.json()),
+    fetch("data/games.json", opts).then(r => r.json()),
+    fetch("data/backlog.json", opts).then(r => r.json()).catch(() => ({ backlog: [] }))
   ]);
   PROFILE = p;
   GAMES = g.games || [];
@@ -26,7 +27,7 @@ async function load() {
 function renderHeader() {
   $("#avatar").src = PROFILE.avatar;
   $("#steam-link").href = PROFILE.profileUrl;
-  const totalHours = GAMES.reduce((a, g) => a + (g.playtime_forever_min || 0), 0) / 60;
+  const totalHours = GAMES.reduce((a, g) => a + (g.manualHours ? g.manualHours * 60 : (g.playtime_forever_min || 0)), 0) / 60;
   const totalAch = GAMES.reduce((a, g) => a + (g.unlockedAchievements || 0), 0);
   const completed = GAMES.filter(g => g.status === "completed").length;
   $("#stats").innerHTML = `
