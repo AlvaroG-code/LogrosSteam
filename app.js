@@ -164,7 +164,16 @@ $("#btn-random").onclick = () => {
   $("#random-result").innerHTML = `🎯 <b>Principal:</b> ${pickInfo(main)}<br/><br/>🎮 <b>Para la ASUS:</b> ${asus ? pickInfo(asus) : "marca alguno con asus:true"}`;
 };
 
-$("#btn-refresh").onclick = async () => {  const st = $("#refresh-status");
+const IS_LOCAL = ["localhost", "127.0.0.1"].includes(location.hostname);
+const WORKFLOW_URL = "https://github.com/AlvaroG-code/LogrosSteam/actions/workflows/sync.yml";
+
+$("#btn-refresh").onclick = async () => {
+  const st = $("#refresh-status");
+  if (!IS_LOCAL) {
+    window.open(WORKFLOW_URL, "_blank");
+    st.textContent = "pulsa Run workflow en GitHub; cuando esté en verde, recarga con Ctrl+F5";
+    return;
+  }
   st.textContent = "actualizando...";
   try {
     const r = await fetch("/api/refresh");
@@ -175,11 +184,5 @@ $("#btn-refresh").onclick = async () => {  const st = $("#refresh-status");
     st.textContent = "abre la web con iniciar-web.bat para usar este botón";
   }
 };
-
-// En GitHub Pages no hay servidor local: ocultar el botón de actualizar
-if (!["localhost", "127.0.0.1"].includes(location.hostname)) {
-  const rb = document.getElementById("btn-refresh");
-  if (rb) rb.style.display = "none";
-}
 
 load();
