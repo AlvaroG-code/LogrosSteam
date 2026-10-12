@@ -20,6 +20,20 @@
     { "appid": 1687950, "name": "Persona 5 Royal", "asus": true, "note": "" },
     { "appid": 2094910, "name": "Pile Up!", "asus": true, "note": "" },
     { "appid": 201810, "name": "Wolfenstein: The New Order", "asus": false, "note": "empieza la saga por aquí" },
-    { "appid": 1244090, "name": "Sea of Stars", "asus": true, "note": "" }
+    { "appid": 1244090, "name": "Sea of Stars", "asus": true, "note": "" },
+    { "appid": 774361, "name": "Blasphemous", "asus": true, "note": "" },
+    { "appid": 1182900, "name": "A Plague Tale: Requiem", "asus": false, "note": "" },
+    { "appid": 1139900, "name": "Ghostrunner", "asus": true, "note": "" },
+    { "appid": 686060, "name": "Mewgenics", "asus": true, "note": "" },
+    { "appid": 1172380, "name": "STAR WARS Jedi: Fallen Order", "asus": false, "note": "" },
+    { "appid": 72850, "name": "The Elder Scrolls V: Skyrim", "asus": false, "note": "el de tu biblioteca" },
+    { "appid": 339340, "name": "Resident Evil 0", "asus": true, "note": "saga RE: primero cronológico" },
+    { "appid": 304240, "name": "Resident Evil", "asus": true, "note": "saga RE" },
+    { "appid": 883710, "name": "Resident Evil 2", "asus": false, "note": "saga RE" },
+    { "appid": 952060, "name": "Resident Evil 3", "asus": false, "note": "saga RE" },
+    { "appid": 2050650, "name": "Resident Evil 4", "asus": false, "note": "saga RE" },
+    { "appid": 418370, "name": "Resident Evil 7 Biohazard", "asus": false, "note": "saga RE" },
+    { "appid": 1196590, "name": "Resident Evil Village", "asus": false, "note": "saga RE" },
+    { "appid": 3764200, "name": "Resident Evil Requiem", "asus": false, "note": "saga RE: sale en 2026" }
   ]
 }
