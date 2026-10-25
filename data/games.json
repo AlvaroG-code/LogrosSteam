@@ -1,12 +1,12 @@
 {
-  "lastSync": "2026-10-24T08:26:59.551Z",
+  "lastSync": "2026-10-25T08:46:27.596Z",
   "games": [
     {
       "appid": 359550,
       "name": "Tom Clancy's Rainbow Six Siege",
-      "playtime_forever_min": 72463,
-      "playtime_2weeks_min": 738,
-      "rtime_last_played": 1792789677,
+      "playtime_forever_min": 72630,
+      "playtime_2weeks_min": 904,
+      "rtime_last_played": 1792883232,
       "img_icon_url": "624745d333ac54aedb1ee911013e2edb7722550e",
       "totalAchievements": 48,
       "unlockedAchievements": 48,
@@ -22274,7 +22274,7 @@
       "appid": 752590,
       "name": "A Plague Tale: Innocence",
       "playtime_forever_min": 1048,
-      "playtime_2weeks_min": 457,
+      "playtime_2weeks_min": 444,
       "rtime_last_played": 1791819881,
       "img_icon_url": "25e8278800f59f82e0fc2d8a61fb17ec1468a500",
       "totalAchievements": 35,
@@ -33142,7 +33142,7 @@
       "appid": 239820,
       "name": "Game Dev Tycoon",
       "playtime_forever_min": 341,
-      "playtime_2weeks_min": 78,
+      "playtime_2weeks_min": 42,
       "rtime_last_played": 1791714139,
       "img_icon_url": "f63ee73113b0880922a84e8d6af0d222fef91c40",
       "totalAchievements": 35,
@@ -37161,6 +37161,335 @@
       ]
     },
     {
+      "appid": 1182900,
+      "name": "A Plague Tale: Requiem",
+      "playtime_forever_min": 170,
+      "playtime_2weeks_min": 170,
+      "rtime_last_played": 1792875616,
+      "img_icon_url": "eaebd6a8952539659e28725f90802cd1a4f93d37",
+      "totalAchievements": 35,
+      "unlockedAchievements": 2,
+      "percent": 6,
+      "completed": false,
+      "achievements": [
+        {
+          "name": "ACH_01",
+          "displayName": "Bajo un nuevo sol",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/5d5a5b117ef21924bff7128841ff18e946195b25.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/aebde370d6cf87095b2d42466d022a7cd7b0f50b.jpg",
+          "achieved": true,
+          "unlocktime": 1792322716
+        },
+        {
+          "name": "ACH_02",
+          "displayName": "Recién llegados",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/17a711ea676b3538d8b00473271312df658ae32f.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/fdb284bcaac64c88624fed8e31d9b19301567d04.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "ACH_03",
+          "displayName": "El peso de la sangre",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/0dcf85f7174f1e168a64be27da924ec6adf6b266.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/b31278cd0b08631d3f18ada613e04fd9ff9be0fb.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "ACH_04",
+          "displayName": "El deber de la Protectora",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/259184281f05b2c38cc55be1d4c26decb7cb2042.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/443bb9bcd82aab95d04e971cd9bf005b584d3fef.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "ACH_05",
+          "displayName": "A nuestro paso",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/8b2c83804db40cd84d0a1d352894e07d65d04017.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/9bb2d4cc936ed02793c05f191eec84ff816c15b0.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "ACH_06",
+          "displayName": "Abandonarlo todo",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/74d7c3e773ae07c3c399d3faf77798deef088b3f.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/6f0b5c2c133adb77330da6fd01115d1aa437f985.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "ACH_07",
+          "displayName": "Malhechores",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/893c2e9ec9be95b12ac0366a1eeea473f9f32c49.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/ca89c43a5e2b7c74c8927daaaf3fde1683a42f17.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "ACH_08",
+          "displayName": "Un mar de promesas",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/b5ec9d895ea7773cb1a621c484f5d665009f2c50.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/0cd085e09b39cbb954f042375e078492038deca0.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "ACH_09",
+          "displayName": "Cuentos y revelaciones",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/36ce9f19593aa14caba17ed879d4bd6b6bcc5e3a.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/2b8bbded60f8ecdd6b9316516377744347a809c0.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "ACH_10",
+          "displayName": "Descendientes",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/ed902f7d60079d23bbe8b6db848b555a5f2439e3.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/c51ec3510a72b92df6f6efed25972eb0bf3a70b1.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "ACH_11",
+          "displayName": "La cuna de siglos",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/5144441110c865f6e696dd726d80670d1904d67b.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/efb3752e3cf92e9915ec058bc49ac1601bbe116f.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "ACH_12",
+          "displayName": "La vida que merecemos",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/5efd05ee4aa3e10b962a26ec19ed4f94dde3005d.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/e12ff6c726b5b38ef36a2e402b84ade753efe662.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "ACH_13",
+          "displayName": "No queda nada",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/ec3df167d5fb34746ff6463053fd8e9da73d5b87.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/dc3377d72611ce05eb121975accf3b169b52c18d.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "ACH_14",
+          "displayName": "Sanando las heridas",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/e1765efc0709f57edff0898df356edd05d2e82c1.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/6f27885f7e3d1834547e1ae44362249579124143.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "ACH_15",
+          "displayName": "Sol agonizante",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/5177a4fbaa91b1c5e2f02359ba58d9e573c39fd5.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/e97df7f31feab44824ca96550192dc655fcd75a1.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "ACH_16",
+          "displayName": "Rey Hugo",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/3bb3e1d2c14282084b228e0c2f2d4436411b3c0a.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/409fa70d1b2ccf2d1865da56469f30a8a734c1fa.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "ACH_17",
+          "displayName": "¡Caballeros!",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/2e2bc99f27ac969762b7a0d6917cb345ea82c85a.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/884cd34de094aaf09278c1f33a7b58287d50b64a.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "ACH_18",
+          "displayName": "Herborista",
+          "description": "Encuentra todas las flores",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/050aa95d71e6292ae224c74a93bc54650de14ab2.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/1a802037f33871c46988d8498aad6b3b24a8cf21.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "ACH_19",
+          "displayName": "Ornitóloga",
+          "description": "Encuentra todas las plumas",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/4b7c699d4e9542e4dede02c5d222cdecaf290c66.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/6ec3ed42ad595ac27f2564be4cce5c9db87a48b9.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "ACH_20",
+          "displayName": "Exploradora",
+          "description": "Abre todos los cofres secretos",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/72d741088f69308cb95f8837ad8bd3c4a29da6e3.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/c612fed46a73a263baf44839e9096111c7ba2e46.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "ACH_21",
+          "displayName": "Recuerdos eternos",
+          "description": "Consigue todos los suvenires",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/98b459dddca2e60e4cd004f109322ca686c1daac.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/8d6137bbff80d82fbd0c8c0d8aca860bdb135860.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "ACH_22",
+          "displayName": "Ya no es un juguete",
+          "description": "Mejora al máximo la honda",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/0877deeb258b5cee6d02c8b1415f932c2eb4fce1.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/2f54669d42139a1a76af1d1212c39d5d206d244f.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "ACH_23",
+          "displayName": "Ballesta mejorada",
+          "description": "Mejora al máximo la ballesta",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/81fe015c56cd2e4c7d03a2b56bcf68196f816c11.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/997919184f2d723d58654d2e585e02d18670c7e5.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "ACH_24",
+          "displayName": "Un puñado de bolsillos",
+          "description": "Mejora al máximo el equipo",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/67040dc57268562884624f352b26b7ca29a34022.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/275331172f370ecd5df98b2c7cea7525644c8536.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "ACH_25",
+          "displayName": "Instrumentos efectivos",
+          "description": "Mejora al máximo los instrumentos",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/095f353b2f43b11228070fe325e0e1b8eaffc67f.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/ce2ceaea184bb439c5da08243215493b2998ad37.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "ACH_26",
+          "displayName": "Laboratorio de bolsillo",
+          "description": "Mejora al máximo la alquimia",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/28d0b5e19ea4df2172025b1038cf9a538116a013.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/72f4b884d8594048ceb5cb17210c3d2b8bf16a4d.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "ACH_27",
+          "displayName": "Guardia de la noche",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/2c33115506fa07638ddc908be4a05e38da32cc98.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/e62ed9941b382267ad586140e259055cadeff5f2.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "ACH_28",
+          "displayName": "Alquimista",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/483e91ed827db7359c2ea975e9bc12e45b6c95a2.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/8ced2ec2a9dc55e632409a72afeee9616afd0fdf.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "ACH_29",
+          "displayName": "Furtiva",
+          "description": "Mejora al máximo las habilidades de cautela",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/b84beac762f650f6809f10dc59045a26e0def35e.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/b2d38e93c6a6cce40f3c6049956d7f1de17e0c5f.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "ACH_30",
+          "displayName": "Luchadora",
+          "description": "Mejora al máximo las habilidades de agresividad",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/3b22156127db319641d537e51e092986772aa83c.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/ccf2529a2a8cfa73f43828aa7b9416756963ea67.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "ACH_31",
+          "displayName": "Maligna",
+          "description": "Mejora al máximo las habilidades de oportunismo",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/4ed1b60ad878508ea75b995915b08efc61eedaec.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/34352ae19f01546dc7526bb33368f3998643e01f.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "ACH_32",
+          "displayName": "Disparo perfecto",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/1dc4191676f16da9230222ec2addbbd4c7e8d39f.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/30572d76bb1cdb35f6593b04c1279e43d3599c8f.jpg",
+          "achieved": true,
+          "unlocktime": 1791831972
+        },
+        {
+          "name": "ACH_33",
+          "displayName": "Lanzamiento perfecto",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/7fa3e92ea07db8d198cc02b15e6349f7662efc96.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/f95cae42196d0ff0520dd5933ecff1f0edfac446.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "ACH_34",
+          "displayName": "Antigua Protectora",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/1c2fd895e629326f5cee4541b6cfa7efeb9843de.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/54c1c0c6152326be70c31e3905669855c2c02171.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "ACH_35",
+          "displayName": "Piedad",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/5bb8a2c2f6fec9f6922403e7285992b163233c03.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/181396185c61686f90ce674dfe1bb65a26815709.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        }
+      ]
+    },
+    {
       "appid": 2073620,
       "name": "Arena Breakout: Infinite",
       "playtime_forever_min": 110,
@@ -38326,335 +38655,6 @@
           "description": "Navega lo suficiente como para dar una vuelta al mundo llevando el timón.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/1456505d3f097ed5b7c7f863d5f683133af51304.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/7bca03728b35215c129a5781533982a7b5aca81e.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        }
-      ]
-    },
-    {
-      "appid": 1182900,
-      "name": "A Plague Tale: Requiem",
-      "playtime_forever_min": 84,
-      "playtime_2weeks_min": 84,
-      "rtime_last_played": 1792323798,
-      "img_icon_url": "eaebd6a8952539659e28725f90802cd1a4f93d37",
-      "totalAchievements": 35,
-      "unlockedAchievements": 2,
-      "percent": 6,
-      "completed": false,
-      "achievements": [
-        {
-          "name": "ACH_01",
-          "displayName": "Bajo un nuevo sol",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/5d5a5b117ef21924bff7128841ff18e946195b25.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/aebde370d6cf87095b2d42466d022a7cd7b0f50b.jpg",
-          "achieved": true,
-          "unlocktime": 1792322716
-        },
-        {
-          "name": "ACH_02",
-          "displayName": "Recién llegados",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/17a711ea676b3538d8b00473271312df658ae32f.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/fdb284bcaac64c88624fed8e31d9b19301567d04.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "ACH_03",
-          "displayName": "El peso de la sangre",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/0dcf85f7174f1e168a64be27da924ec6adf6b266.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/b31278cd0b08631d3f18ada613e04fd9ff9be0fb.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "ACH_04",
-          "displayName": "El deber de la Protectora",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/259184281f05b2c38cc55be1d4c26decb7cb2042.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/443bb9bcd82aab95d04e971cd9bf005b584d3fef.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "ACH_05",
-          "displayName": "A nuestro paso",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/8b2c83804db40cd84d0a1d352894e07d65d04017.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/9bb2d4cc936ed02793c05f191eec84ff816c15b0.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "ACH_06",
-          "displayName": "Abandonarlo todo",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/74d7c3e773ae07c3c399d3faf77798deef088b3f.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/6f0b5c2c133adb77330da6fd01115d1aa437f985.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "ACH_07",
-          "displayName": "Malhechores",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/893c2e9ec9be95b12ac0366a1eeea473f9f32c49.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/ca89c43a5e2b7c74c8927daaaf3fde1683a42f17.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "ACH_08",
-          "displayName": "Un mar de promesas",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/b5ec9d895ea7773cb1a621c484f5d665009f2c50.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/0cd085e09b39cbb954f042375e078492038deca0.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "ACH_09",
-          "displayName": "Cuentos y revelaciones",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/36ce9f19593aa14caba17ed879d4bd6b6bcc5e3a.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/2b8bbded60f8ecdd6b9316516377744347a809c0.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "ACH_10",
-          "displayName": "Descendientes",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/ed902f7d60079d23bbe8b6db848b555a5f2439e3.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/c51ec3510a72b92df6f6efed25972eb0bf3a70b1.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "ACH_11",
-          "displayName": "La cuna de siglos",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/5144441110c865f6e696dd726d80670d1904d67b.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/efb3752e3cf92e9915ec058bc49ac1601bbe116f.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "ACH_12",
-          "displayName": "La vida que merecemos",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/5efd05ee4aa3e10b962a26ec19ed4f94dde3005d.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/e12ff6c726b5b38ef36a2e402b84ade753efe662.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "ACH_13",
-          "displayName": "No queda nada",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/ec3df167d5fb34746ff6463053fd8e9da73d5b87.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/dc3377d72611ce05eb121975accf3b169b52c18d.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "ACH_14",
-          "displayName": "Sanando las heridas",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/e1765efc0709f57edff0898df356edd05d2e82c1.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/6f27885f7e3d1834547e1ae44362249579124143.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "ACH_15",
-          "displayName": "Sol agonizante",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/5177a4fbaa91b1c5e2f02359ba58d9e573c39fd5.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/e97df7f31feab44824ca96550192dc655fcd75a1.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "ACH_16",
-          "displayName": "Rey Hugo",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/3bb3e1d2c14282084b228e0c2f2d4436411b3c0a.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/409fa70d1b2ccf2d1865da56469f30a8a734c1fa.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "ACH_17",
-          "displayName": "¡Caballeros!",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/2e2bc99f27ac969762b7a0d6917cb345ea82c85a.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/884cd34de094aaf09278c1f33a7b58287d50b64a.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "ACH_18",
-          "displayName": "Herborista",
-          "description": "Encuentra todas las flores",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/050aa95d71e6292ae224c74a93bc54650de14ab2.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/1a802037f33871c46988d8498aad6b3b24a8cf21.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "ACH_19",
-          "displayName": "Ornitóloga",
-          "description": "Encuentra todas las plumas",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/4b7c699d4e9542e4dede02c5d222cdecaf290c66.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/6ec3ed42ad595ac27f2564be4cce5c9db87a48b9.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "ACH_20",
-          "displayName": "Exploradora",
-          "description": "Abre todos los cofres secretos",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/72d741088f69308cb95f8837ad8bd3c4a29da6e3.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/c612fed46a73a263baf44839e9096111c7ba2e46.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "ACH_21",
-          "displayName": "Recuerdos eternos",
-          "description": "Consigue todos los suvenires",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/98b459dddca2e60e4cd004f109322ca686c1daac.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/8d6137bbff80d82fbd0c8c0d8aca860bdb135860.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "ACH_22",
-          "displayName": "Ya no es un juguete",
-          "description": "Mejora al máximo la honda",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/0877deeb258b5cee6d02c8b1415f932c2eb4fce1.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/2f54669d42139a1a76af1d1212c39d5d206d244f.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "ACH_23",
-          "displayName": "Ballesta mejorada",
-          "description": "Mejora al máximo la ballesta",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/81fe015c56cd2e4c7d03a2b56bcf68196f816c11.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/997919184f2d723d58654d2e585e02d18670c7e5.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "ACH_24",
-          "displayName": "Un puñado de bolsillos",
-          "description": "Mejora al máximo el equipo",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/67040dc57268562884624f352b26b7ca29a34022.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/275331172f370ecd5df98b2c7cea7525644c8536.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "ACH_25",
-          "displayName": "Instrumentos efectivos",
-          "description": "Mejora al máximo los instrumentos",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/095f353b2f43b11228070fe325e0e1b8eaffc67f.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/ce2ceaea184bb439c5da08243215493b2998ad37.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "ACH_26",
-          "displayName": "Laboratorio de bolsillo",
-          "description": "Mejora al máximo la alquimia",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/28d0b5e19ea4df2172025b1038cf9a538116a013.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/72f4b884d8594048ceb5cb17210c3d2b8bf16a4d.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "ACH_27",
-          "displayName": "Guardia de la noche",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/2c33115506fa07638ddc908be4a05e38da32cc98.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/e62ed9941b382267ad586140e259055cadeff5f2.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "ACH_28",
-          "displayName": "Alquimista",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/483e91ed827db7359c2ea975e9bc12e45b6c95a2.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/8ced2ec2a9dc55e632409a72afeee9616afd0fdf.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "ACH_29",
-          "displayName": "Furtiva",
-          "description": "Mejora al máximo las habilidades de cautela",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/b84beac762f650f6809f10dc59045a26e0def35e.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/b2d38e93c6a6cce40f3c6049956d7f1de17e0c5f.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "ACH_30",
-          "displayName": "Luchadora",
-          "description": "Mejora al máximo las habilidades de agresividad",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/3b22156127db319641d537e51e092986772aa83c.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/ccf2529a2a8cfa73f43828aa7b9416756963ea67.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "ACH_31",
-          "displayName": "Maligna",
-          "description": "Mejora al máximo las habilidades de oportunismo",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/4ed1b60ad878508ea75b995915b08efc61eedaec.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/34352ae19f01546dc7526bb33368f3998643e01f.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "ACH_32",
-          "displayName": "Disparo perfecto",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/1dc4191676f16da9230222ec2addbbd4c7e8d39f.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/30572d76bb1cdb35f6593b04c1279e43d3599c8f.jpg",
-          "achieved": true,
-          "unlocktime": 1791831972
-        },
-        {
-          "name": "ACH_33",
-          "displayName": "Lanzamiento perfecto",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/7fa3e92ea07db8d198cc02b15e6349f7662efc96.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/f95cae42196d0ff0520dd5933ecff1f0edfac446.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "ACH_34",
-          "displayName": "Antigua Protectora",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/1c2fd895e629326f5cee4541b6cfa7efeb9843de.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/54c1c0c6152326be70c31e3905669855c2c02171.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "ACH_35",
-          "displayName": "Piedad",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/5bb8a2c2f6fec9f6922403e7285992b163233c03.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/181396185c61686f90ce674dfe1bb65a26815709.jpg",
           "achieved": false,
           "unlocktime": 0
         }
