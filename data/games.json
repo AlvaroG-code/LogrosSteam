@@ -1,12 +1,12 @@
 {
-  "lastSync": "2026-10-25T08:46:27.596Z",
+  "lastSync": "2026-10-26T09:25:21.509Z",
   "games": [
     {
       "appid": 359550,
       "name": "Tom Clancy's Rainbow Six Siege",
-      "playtime_forever_min": 72630,
-      "playtime_2weeks_min": 904,
-      "rtime_last_played": 1792883232,
+      "playtime_forever_min": 72761,
+      "playtime_2weeks_min": 1036,
+      "rtime_last_played": 1792963285,
       "img_icon_url": "624745d333ac54aedb1ee911013e2edb7722550e",
       "totalAchievements": 48,
       "unlockedAchievements": 48,
@@ -4738,9 +4738,9 @@
     {
       "appid": 431960,
       "name": "Wallpaper Engine",
-      "playtime_forever_min": 7589,
-      "playtime_2weeks_min": 151,
-      "rtime_last_played": 1792530388,
+      "playtime_forever_min": 7666,
+      "playtime_2weeks_min": 228,
+      "rtime_last_played": 1792927868,
       "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d",
       "totalAchievements": 17,
       "unlockedAchievements": 5,
@@ -11367,10 +11367,10 @@
       "playtime_2weeks_min": 0,
       "rtime_last_played": 1770203802,
       "img_icon_url": "2f19d6889f66eae88e8b5a36727d560ec88a00cb",
-      "totalAchievements": 43,
+      "totalAchievements": 56,
       "unlockedAchievements": 43,
-      "percent": 100,
-      "completed": true,
+      "percent": 77,
+      "completed": false,
       "achievements": [
         {
           "name": "Achievement_14130001",
@@ -11758,6 +11758,123 @@
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1868140/2a60cbd012d5929a636838b8192cdc4be0e0006c.jpg",
           "achieved": true,
           "unlocktime": 1770149719
+        },
+        {
+          "name": "Achievement_14230001",
+          "displayName": "Bienvenido a la jungla",
+          "description": "Has llegado a la aldea de Utara.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1868140/93d062eb6a51cd874d942915e94b22ee242bcdcd.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1868140/a36ea86f57320dcadad848508f2dbc84a5d21c68.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "Achievement_14230003",
+          "displayName": "Guardián de la jungla",
+          "description": "Has visto el final del DLC In The Jungle.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1868140/97c3d8894304422ab4631578ee7375c58623391a.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1868140/9a7378f9c119ef64b79332d62ac66fcbc5e99366.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "Achievement_14230004",
+          "displayName": "Luchador de escarabajos",
+          "description": "Has ganado 3 batallas de escarabajos.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1868140/ff2ccaffca9d82255a5ce4acd5b2f5c005f75c25.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1868140/4a5f7a40a8ff58eeebbf474b151d842ea8c55c27.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "Achievement_14230005",
+          "displayName": "Rey de los escarabajos",
+          "description": "Has capturado dos insectos gigantes.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1868140/9f651f50c8cf728c22c8012adac2031bf961602e.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1868140/1005d4789c842aae80f091f19d64b1ad6d94d50f.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "Achievement_14230006",
+          "displayName": "Tirador certero",
+          "description": "Has logrado S en todos los niveles del campo de tiro.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1868140/bbbe277e46ed88cb934ad219b3d34c1d29595dc7.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1868140/2c5d0b930d2bba57e57bf09f7dff4a2820fda075.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "Achievement_14230007",
+          "displayName": "Punto caliente de la jungla",
+          "description": "Has alcanzado el rango máximo en Bancho Grill.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1868140/9fc09cc5c5204b309eb07950bbe2b1c30689dc76.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1868140/c44dea5bb3452a433ab01ad8aeaeb47cfcad1b22.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "Achievement_14230008",
+          "displayName": "Amigo de la aldea",
+          "description": "Has hecho buenas migas con 5 habitantes de Utara.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1868140/98647f32e9af840b1d8ea5ab78f266daa294dbff.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1868140/2338271da7dadad9a33f7ae090ca64d846f21b91.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "Achievement_14230009",
+          "displayName": "Protección del medio ambiente",
+          "description": "Has purificado el Lago Utara.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1868140/891a973a391f7da600dd0475a124d6bf66897c4e.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1868140/f7a6c45750714fa2a08d4ef6f787995907111901.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "Achievement_14230010",
+          "displayName": "Maestro de la recolección",
+          "description": "Has recolectado ingredientes de tierra 100 veces.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1868140/10a585091501ee8e9d14b445642a7db9720f6e9b.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1868140/281de077dd2d3bb82f414cbe8724151a6ace1729.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "Achievement_14230011",
+          "displayName": "Dave el arqueólogo",
+          "description": "Has restaurado a la perfección el fósil de Unicuerno.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1868140/d2a7aed3d4c1421a5ddaeaa3a570a0ffaad4fb29.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1868140/c01c1b507027b7b4c7fceecfc2c3de3e350e866a.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "Achievement_14230012",
+          "displayName": "Rafflesia",
+          "description": "Has hecho florecer una flor en Marinca Bloom.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1868140/7db520e6b9e11b0f6c20116f8873b49f69ab0fd1.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1868140/1000da8cc78c1cc9a27f9a31df814141e19b4bd8.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "Achievement_14230013",
+          "displayName": "Poder de la pistola selvática",
+          "description": "Has mejorado al máximo un tipo de pistola selvática.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1868140/407b6eda4a8e0fa2e234bb2d1b543e97d8b8bdaa.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1868140/b7c2db215182f6a99c7a832607a9e9ba0a5c02e4.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "Achievement_14230014",
+          "displayName": "Tirano del lago",
+          "description": "Has derrotado al cocodrilo gigante Sulong.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1868140/2a29b01872327655d052982aafee8a9a3b80dbc1.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1868140/5d593d1dc195c6e561dcab8cad06473a41d4c148.jpg",
+          "achieved": false,
+          "unlocktime": 0
         }
       ]
     },
@@ -22274,7 +22391,7 @@
       "appid": 752590,
       "name": "A Plague Tale: Innocence",
       "playtime_forever_min": 1048,
-      "playtime_2weeks_min": 444,
+      "playtime_2weeks_min": 136,
       "rtime_last_played": 1791819881,
       "img_icon_url": "25e8278800f59f82e0fc2d8a61fb17ec1468a500",
       "totalAchievements": 35,
@@ -33142,7 +33259,7 @@
       "appid": 239820,
       "name": "Game Dev Tycoon",
       "playtime_forever_min": 341,
-      "playtime_2weeks_min": 42,
+      "playtime_2weeks_min": 0,
       "rtime_last_played": 1791714139,
       "img_icon_url": "f63ee73113b0880922a84e8d6af0d222fef91c40",
       "totalAchievements": 35,
