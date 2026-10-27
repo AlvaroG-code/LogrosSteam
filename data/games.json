@@ -1,5 +1,5 @@
 {
-  "lastSync": "2026-10-26T09:25:21.509Z",
+  "lastSync": "2026-10-27T09:23:57.280Z",
   "games": [
     {
       "appid": 359550,
@@ -22391,7 +22391,7 @@
       "appid": 752590,
       "name": "A Plague Tale: Innocence",
       "playtime_forever_min": 1048,
-      "playtime_2weeks_min": 136,
+      "playtime_2weeks_min": 0,
       "rtime_last_played": 1791819881,
       "img_icon_url": "25e8278800f59f82e0fc2d8a61fb17ec1468a500",
       "totalAchievements": 35,
@@ -37281,7 +37281,7 @@
       "appid": 1182900,
       "name": "A Plague Tale: Requiem",
       "playtime_forever_min": 170,
-      "playtime_2weeks_min": 170,
+      "playtime_2weeks_min": 119,
       "rtime_last_played": 1792875616,
       "img_icon_url": "eaebd6a8952539659e28725f90802cd1a4f93d37",
       "totalAchievements": 35,
