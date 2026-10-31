@@ -1,5 +1,5 @@
 {
-  "lastSync": "2026-10-30T10:30:17.128Z",
+  "lastSync": "2026-10-31T09:59:51.320Z",
   "games": [
     {
       "appid": 359550,
@@ -4738,9 +4738,9 @@
     {
       "appid": 431960,
       "name": "Wallpaper Engine",
-      "playtime_forever_min": 7666,
-      "playtime_2weeks_min": 228,
-      "rtime_last_played": 1792927868,
+      "playtime_forever_min": 7697,
+      "playtime_2weeks_min": 272,
+      "rtime_last_played": 1793439273,
       "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d",
       "totalAchievements": 17,
       "unlockedAchievements": 5,
