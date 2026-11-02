@@ -1,12 +1,12 @@
 {
-  "lastSync": "2026-11-01T10:50:58.029Z",
+  "lastSync": "2026-11-02T11:44:36.528Z",
   "games": [
     {
       "appid": 359550,
       "name": "Tom Clancy's Rainbow Six Siege",
-      "playtime_forever_min": 72911,
-      "playtime_2weeks_min": 1186,
-      "rtime_last_played": 1793530145,
+      "playtime_forever_min": 73034,
+      "playtime_2weeks_min": 1308,
+      "rtime_last_played": 1793540531,
       "img_icon_url": "624745d333ac54aedb1ee911013e2edb7722550e",
       "totalAchievements": 48,
       "unlockedAchievements": 48,
@@ -35249,13 +35249,13 @@
     {
       "appid": 1182900,
       "name": "A Plague Tale: Requiem",
-      "playtime_forever_min": 269,
-      "playtime_2weeks_min": 218,
-      "rtime_last_played": 1793487650,
+      "playtime_forever_min": 318,
+      "playtime_2weeks_min": 234,
+      "rtime_last_played": 1793536901,
       "img_icon_url": "eaebd6a8952539659e28725f90802cd1a4f93d37",
       "totalAchievements": 35,
-      "unlockedAchievements": 3,
-      "percent": 9,
+      "unlockedAchievements": 4,
+      "percent": 11,
       "completed": false,
       "achievements": [
         {
@@ -35282,8 +35282,8 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/0dcf85f7174f1e168a64be27da924ec6adf6b266.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1182900/b31278cd0b08631d3f18ada613e04fd9ff9be0fb.jpg",
-          "achieved": false,
-          "unlocktime": 0
+          "achieved": true,
+          "unlocktime": 1793535769
         },
         {
           "name": "ACH_04",
