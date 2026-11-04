@@ -1,12 +1,12 @@
 {
-  "lastSync": "2026-11-03T11:26:31.583Z",
+  "lastSync": "2026-11-04T11:39:34.024Z",
   "games": [
     {
       "appid": 359550,
       "name": "Tom Clancy's Rainbow Six Siege",
-      "playtime_forever_min": 73060,
-      "playtime_2weeks_min": 1335,
-      "rtime_last_played": 1793655346,
+      "playtime_forever_min": 73192,
+      "playtime_2weeks_min": 1467,
+      "rtime_last_played": 1793789301,
       "img_icon_url": "624745d333ac54aedb1ee911013e2edb7722550e",
       "totalAchievements": 48,
       "unlockedAchievements": 48,
@@ -4739,7 +4739,7 @@
       "appid": 431960,
       "name": "Wallpaper Engine",
       "playtime_forever_min": 8218,
-      "playtime_2weeks_min": 780,
+      "playtime_2weeks_min": 629,
       "rtime_last_played": 1793655382,
       "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d",
       "totalAchievements": 17,
