@@ -1,11 +1,11 @@
 {
-  "lastSync": "2026-11-05T11:40:24.165Z",
+  "lastSync": "2026-11-06T11:38:42.051Z",
   "games": [
     {
       "appid": 359550,
       "name": "Tom Clancy's Rainbow Six Siege",
       "playtime_forever_min": 73423,
-      "playtime_2weeks_min": 1449,
+      "playtime_2weeks_min": 1186,
       "rtime_last_played": 1793833147,
       "img_icon_url": "624745d333ac54aedb1ee911013e2edb7722550e",
       "totalAchievements": 48,
