@@ -1,12 +1,12 @@
 {
-  "lastSync": "2026-11-12T11:57:12.098Z",
+  "lastSync": "2026-11-13T11:39:46.755Z",
   "games": [
     {
       "appid": 359550,
       "name": "Tom Clancy's Rainbow Six Siege",
-      "playtime_forever_min": 73455,
-      "playtime_2weeks_min": 657,
-      "rtime_last_played": 1794265556,
+      "playtime_forever_min": 73480,
+      "playtime_2weeks_min": 683,
+      "rtime_last_played": 1794506042,
       "img_icon_url": "624745d333ac54aedb1ee911013e2edb7722550e",
       "totalAchievements": 48,
       "unlockedAchievements": 48,
@@ -35250,7 +35250,7 @@
       "appid": 1182900,
       "name": "A Plague Tale: Requiem",
       "playtime_forever_min": 318,
-      "playtime_2weeks_min": 147,
+      "playtime_2weeks_min": 110,
       "rtime_last_played": 1793536901,
       "img_icon_url": "eaebd6a8952539659e28725f90802cd1a4f93d37",
       "totalAchievements": 35,
