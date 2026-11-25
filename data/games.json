@@ -1,5 +1,5 @@
 {
-  "lastSync": "2026-11-24T14:21:24.557Z",
+  "lastSync": "2026-11-25T13:40:19.629Z",
   "games": [
     {
       "appid": 359550,
@@ -3487,7 +3487,7 @@
       "appid": 431960,
       "name": "Wallpaper Engine",
       "playtime_forever_min": 9285,
-      "playtime_2weeks_min": 997,
+      "playtime_2weeks_min": 497,
       "rtime_last_played": 1795383177,
       "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d",
       "totalAchievements": 17,
@@ -19811,7 +19811,7 @@
       "playtime_2weeks_min": 0,
       "rtime_last_played": 1586892493,
       "img_icon_url": "aa152097a700fd6f4707397ce41794ea30874790",
-      "totalAchievements": 311,
+      "totalAchievements": 318,
       "unlockedAchievements": 7,
       "percent": 2,
       "completed": false,
@@ -21942,16 +21942,16 @@
         },
         {
           "name": "NEW_ACHIEVEMENT_245_24",
-          "displayName": "Quien ríe el último",
-          "description": "En partidas públicas, golpea a un superviviente en los 3 segundos tras un correteo 10 veces.",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/644d841e17fe9a6583928b77f83ce251b9cf5f0e.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/ac973849bbee02a23fd23c1eb8be9f18dbb84f44.jpg",
+          "displayName": "Tira de la costra",
+          "description": "En p. públicas, hiere 10 veces a un superviviente en los 10 segundos posteriores a estar ileso.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/ca10679e8c2ba75beeb1df448698ddffa3586352.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/c9d22d3f9a72d6b5c371f991aa642129d0b60d41.jpg",
           "achieved": false,
           "unlocktime": 0
         },
         {
           "name": "NEW_ACHIEVEMENT_245_25",
-          "displayName": "De la nada",
+          "displayName": "Que no se lo esperen",
           "description": "Golpea a 40 supervivientes con un ataque básico con Indetectable en partidas públicas.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/d056e249d6823ad7db349eda0a45c435dcde7922.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/56cbca072c424167625bb4bfee8c7b7729a3c1a7.jpg",
@@ -21960,10 +21960,10 @@
         },
         {
           "name": "NEW_ACHIEVEMENT_245_26",
-          "displayName": "Good Guy experto",
-          "description": "Obtén 1 victoria despiadada con Good Guy y solo sus 3 habilidades únicas en partida pública.",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/1cd0ab2ec042ed9eb186dc6dfadf67b333afd5d6.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/80f0156bddefd4ede4b19b494b5c1b1abaf39601.jpg",
+          "displayName": "Hora de recoger",
+          "description": "En una partida pública, cuelga a 2 supervivientes en ganchos de sacrificio en 45 segundos.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/8c834da90d24a2a8610fbba9140a3670cdb7335d.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/14e4f42401706e3e775af4892bae797764c3f161.jpg",
           "achieved": false,
           "unlocktime": 0
         },
@@ -22545,8 +22545,8 @@
         },
         {
           "name": "NEW_ACHIEVEMENT_334_2",
-          "displayName": "Under my Dominion",
-          "description": "In public matches, As The Judgment, hit 15 Survivors with Divine Light from at least 16 meters away.",
+          "displayName": "Bajo mi dominio",
+          "description": "En part. públicas, con la Sentencia, golpea a 15 superv. con Luz divina al menos a 16 metros.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/ac0b8e5334bbfc3182796a24a17bcd17420b59d1.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/30e91abf1fbb0575d1401bf3d6bf0eb9535cf2b7.jpg",
           "achieved": false,
@@ -22554,8 +22554,8 @@
         },
         {
           "name": "NEW_ACHIEVEMENT_334_3",
-          "displayName": "Witness to Heresy",
-          "description": "In public matches, see the Obsession's Aura for a total of 300 seconds.",
+          "displayName": "Testigo de herejía",
+          "description": "En partidas públicas, ve el aura de la obsesión durante un total de 300 segundos.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/7a7791c9efc4e2646c9dfd49d31e98d4270bc7cc.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/0c3b4ab13732fe3c0208018e297b29229a7692cd.jpg",
           "achieved": false,
@@ -22563,8 +22563,8 @@
         },
         {
           "name": "NEW_ACHIEVEMENT_334_4",
-          "displayName": "Adept Judgment",
-          "description": "Achieve a merciless victory with The Judgment using only Its 3 unique perks in a public match.",
+          "displayName": "Sentencia experta",
+          "description": "Obtén 1 victoria despiadada con la Sentencia usando solo sus 3 habilidades únicas en 1 p. pública.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/9e734a25db1959f6d5d06182645e577012ce629d.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/1ab8f6cf3d12c77d013b51b5e3e9a013c733e613.jpg",
           "achieved": false,
@@ -22572,7 +22572,7 @@
         },
         {
           "name": "NEW_ACHIEVEMENT_334_5",
-          "displayName": "Sacrosanct",
+          "displayName": "Sacrosanto",
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/060c4d82de3e39801cdcd81c5d4fd6cc7169a4af.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/8a639e25eb4ad3dd6ec65158bdf4b29f82b14b19.jpg",
@@ -22581,8 +22581,8 @@
         },
         {
           "name": "NEW_ACHIEVEMENT_334_6",
-          "displayName": "Above Judgment",
-          "description": "In a public match, escape The Judgment's Exile without being hit by Seeds of Punishment.",
+          "displayName": "Por encima de la Sentencia",
+          "description": "En una p. púb. contra la Sentencia, escapa del exilio sin que te alcancen semillas de penitencia.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/3498f43e7e28602424d8d890f0055f5a3613cbbc.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/2b1adf9cd198622f6374e7ddf1eee40dc74cedb7.jpg",
           "achieved": false,
@@ -22590,8 +22590,8 @@
         },
         {
           "name": "NEW_ACHIEVEMENT_334_7",
-          "displayName": "Path to Salvation",
-          "description": "In public matches, gain a health state within 10 seconds of a Generator being completed 5 times.",
+          "displayName": "Hacia la salvación",
+          "description": "En p. públicas, obtén un estado de salud en 10 s después de que se complete un generador 5 veces.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/08866463cd5c2aa6704d8df2bb3e79c1cc5e2dbe.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/3cda2261dd1d71ae66bfff26d913ae382309e80b.jpg",
           "achieved": false,
@@ -22599,8 +22599,8 @@
         },
         {
           "name": "NEW_ACHIEVEMENT_334_8",
-          "displayName": "Adept Aurora",
-          "description": "Escape with Aurora using only her 3 unique perks in a public match.",
+          "displayName": "Aurora experta",
+          "description": "Escapa con Aurora usando solo sus 3 habilidades únicas en una partida pública.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/eef1f23c1b019e86083cefc36f2f525088bd35cd.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/04b6d1938f8e8709e13dc1724936898ba557a869.jpg",
           "achieved": false,
@@ -22608,10 +22608,73 @@
         },
         {
           "name": "NEW_ACHIEVEMENT_334_9",
-          "displayName": "Sacrilege",
+          "displayName": "Sacrilegio",
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/9d4306a370aeff753338eb4e239df71a0b1c09b8.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/5136718d0d4c637c4fbfc63d1b16ef3acd62f1aa.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "NEW_ACHIEVEMENT_334_10",
+          "displayName": "Leña del árbol caído",
+          "description": "En partidas públicas, provoca a 12 supervivientes aterrorizados con Terrifier.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/8d2daf77136cb882d0eb14a2fe4678e2546c0033.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/00b0e09fce66561bf6840bed5f650aceebc7a970.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "NEW_ACHIEVEMENT_334_11",
+          "displayName": "Más vale tarde que nunca",
+          "description": "En una partida pública, mata a un superviviente mientras esté dentro del umbral de salida.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/671eb7b3dd3bf2b490679ffc132ea66ccd713ea6.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/e9aadec836cb15510dbdb81bb9e1363c0256612f.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "NEW_ACHIEVEMENT_334_12",
+          "displayName": "Terrifier experto",
+          "description": "Obtén 1 victoria despiadada con Terrifier y solo sus 3 habilidades únicas en una part. pública.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/941a9f232e0f0b128b721ab9b1b452399e3af139.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/82457f8eccbb717e75bf7bc2dec1a72a2f71eef8.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "NEW_ACHIEVEMENT_334_13",
+          "displayName": "El bien sobre el mal",
+          "description": "Haz que el asesino te persiga durante 90 segundos y atúrdelo 3 veces en una partida pública.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/4db8decc941a42870ec21ad690f177fb971b6ff3.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/5665221b50e60c1ee113caeab5e37927f204fa71.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "NEW_ACHIEVEMENT_334_14",
+          "displayName": "Ángel de la guarda",
+          "description": "Recibe un golpe por protección por cada uno de los otros 3 supervivientes en una partida pública.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/2630c7f87ff22a679028156588054c6dad05c392.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/bcca32b55a175b84fe3ebacd786387db3d95b3cd.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "NEW_ACHIEVEMENT_334_15",
+          "displayName": "Sienna experta",
+          "description": "Escapa con Sienna usando solo sus 3 habilidades únicas en una partida pública.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/6b8a347ab88315d6cb9967e0f2c47cd43329132d.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/107f46d45861734593ad2c4777732a6a30a31591.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "NEW_ACHIEVEMENT_334_16",
+          "displayName": "Si no malgastas, no necesitarás",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/23eddd8ba9ab4ee1239f3bf221e55e6eb00d1283.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/381210/7145c2bf3bb24cbbde38f3c9479cb12fd3cd29dc.jpg",
           "achieved": false,
           "unlocktime": 0
         }
