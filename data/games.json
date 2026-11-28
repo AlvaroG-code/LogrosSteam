@@ -1,11 +1,11 @@
 {
-  "lastSync": "2026-11-27T13:14:35.371Z",
+  "lastSync": "2026-11-28T12:30:20.366Z",
   "games": [
     {
       "appid": 359550,
       "name": "Tom Clancy's Rainbow Six Siege",
       "playtime_forever_min": 73616,
-      "playtime_2weeks_min": 136,
+      "playtime_2weeks_min": 34,
       "rtime_last_played": 1794759819,
       "img_icon_url": "624745d333ac54aedb1ee911013e2edb7722550e",
       "totalAchievements": 48,
@@ -3486,9 +3486,9 @@
     {
       "appid": 431960,
       "name": "Wallpaper Engine",
-      "playtime_forever_min": 9287,
-      "playtime_2weeks_min": 498,
-      "rtime_last_played": 1795626950,
+      "playtime_forever_min": 9420,
+      "playtime_2weeks_min": 631,
+      "rtime_last_played": 1795819582,
       "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d",
       "totalAchievements": 17,
       "unlockedAchievements": 5,
@@ -37670,6 +37670,506 @@
       ]
     },
     {
+      "appid": 1244090,
+      "name": "Sea of Stars: Sunset Edition",
+      "playtime_forever_min": 124,
+      "playtime_2weeks_min": 109,
+      "rtime_last_played": 1795823406,
+      "img_icon_url": "529d0f064196911482aeeb8f42ffcc1ff77fed67",
+      "totalAchievements": 54,
+      "unlockedAchievements": 2,
+      "percent": 4,
+      "completed": false,
+      "achievements": [
+        {
+          "name": "SOS_ACHIEVEMENT_1",
+          "displayName": "Babosa vencida",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/e3b498b9c72f882c56a7d8cde6421f0261c46e18.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/d0c8505fa7c9dd716ad763f6029ac837647ca08c.jpg",
+          "achieved": true,
+          "unlocktime": 1795822971
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_2",
+          "displayName": "¡No, espera!",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/4f56beb2d6a53f58484522c853f919f96bde163f.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/4a76607269126ccafe04ecade3eb8157f8bea106.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_3",
+          "displayName": "Misión de recuperación",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/5a77a9a4a554abe777c43f5868c9fdf1b5afa96e.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/6e0465d039155078f977230b312f987c27c2098b.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_4",
+          "displayName": "¡Dame eso ya!",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/e8a2b769a7e6a1a52283e88e07a3fe96a95506b1.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/d71089320e051d461ce2e98823c38e8617b2c126.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_5",
+          "displayName": "Morador de la Aflicción",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/574f3588508ce58b835d9aecbfc35131fe92da99.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/994ad1c756eaa7a9c21f58a86275cb6a844646a5.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_6",
+          "displayName": "¿Quién lo hubiera imaginado?",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/657d63cc98bcaec98fbff4d90bb686d5ae3cb18e.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/d38c57b5693279ed38683839282d57cca1c59894.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_7",
+          "displayName": "¡Oye, tú!",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/ab7a3a6d169007ae97335d9402097d69ef26bb08.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/1bcdd474554a6f5bce3bb8d668f3aeaf67f6f7e8.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_8",
+          "displayName": "Hogar, dulce hogar",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/129e59c4a18df851b7e08f7c7b72b61b3f3b54c6.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/83601a7f19d385d6fed2694f0b673b5aa770e21f.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_9",
+          "displayName": "Poder del Solsticio",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/0d2eb36970486cf67bf503a03875e0f8b3c611b4.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/8624c9285b5a9375f5c6c0d7956aaab1895ef47b.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_10",
+          "displayName": "Morador del Tormento",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/753d1f5116c4913d8132cbe012c9626d7816acbf.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/ed20eed4052d5baa4b83757e92011df317297b08.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_11",
+          "displayName": "Desperdicio caído",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/4e6512cc5e1e3d280050b6c92fd921148a084ba3.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/11854cf4c652040f17fb47ac368e69667bc10fb1.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_12",
+          "displayName": "¡Y no os levantéis!",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/f1d681bb380f7b9a0bcebcaf8123820b6595f03a.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/bce85b465668360a63aed7fb79a0f37df6801c46.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_13",
+          "displayName": "Morador del Conflicto",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/ad7b102739ec596de12b7eb3bfad8abdbe91b95c.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/85c678d728422a3e2a23a1e682b265c0d7bbae21.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_14",
+          "displayName": "Combate el fuego con fuerza lunar",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/ffe4bd4c8b3c9b87fdc07e32cac4da32ab489f63.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/ab6df1fc9e092ab4681a431290b05a8c790823df.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_15",
+          "displayName": "El Cocinero Guerrero",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/0438d801ea7a0638cc523d037ce1bee1bb60e936.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/11f11cbb85ed6974ccd2908f680bdf2b8b52811a.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_16",
+          "displayName": "¿Quién lo hubiera imaginado? Parte 2",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/a71026d8051e9e72b2e80bca86b8f297568f87cd.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/c5aa22ded1f772eb1e6c2788d414af20e85d3f09.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_17",
+          "displayName": "Barbilla en alto",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/45687690273610aece4607e44a4a3b6ab3ab3f32.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/be8220a4cbd4c9b1a2d371c296a67400c452ebee.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_18",
+          "displayName": "Peso pluma",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/d42b4f043ab4a37d7fe0254f124108a21a242eea.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/4b097d86a1a49e4e91f3e35081a8496877a761c8.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_19",
+          "displayName": "Entra en el Artífice",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/dbb0ddc9c81d1bfd267d32514e2fb1d901c82040.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/80665bc0ce347928194750f4cd8a3352946653eb.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_20",
+          "displayName": "Morador del Terror",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/6ca4179a5111e7af633b71bf922a9080d748b3a7.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/e973fd97e817c7fd773b5de2ef4555f685931241.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_21",
+          "displayName": "Pedanteniente",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/86233fc2860a7f50304081acce020b09b359e5dc.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/fa5729121a490a88835ae53cf30430adf604afcd.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_22",
+          "displayName": "Campeón mecánico",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/d1b06137e2fe510f7e39cffabd9d5945041e5348.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/b2dda061b572913cf08ac149c73889b5e4e164b7.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_23",
+          "displayName": "Comida sana",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/1d92afc3fc3b95fcc9d4de291d6b0d22da3c58d6.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/dc4593e8b5eac5a3fddab78c347ec566b86f1fbf.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_24",
+          "displayName": "Mejor muerta",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/6930081c9f8f2a12f39e657b8cefb73ee05ce0d6.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/1e48f03a476a918dde193f6f88a0ae009d749ffc.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_25",
+          "displayName": "¡Vaya, un nuevo aspecto!",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/83649c61b962758010fba3bc11c9266886b17aba.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/fcc954e719dfd85cf991d5a684c7a6128713e126.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_26",
+          "displayName": "Ancestro castigado",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/9295444d16cb09c9ffeedb0c8021b3362d92ac70.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/42e64f29a7745065427f2f9d9904657f6d616fce.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_27",
+          "displayName": "Vidriator",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/3967d96496960d6b421114f23cd39b3cff216e8a.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/d1f560af1fa44fd4ac283381e0498d18442639f1.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_28",
+          "displayName": "Libre de la serviduque",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/c18eb6fe12b5037613fe62522486f8323ecd306d.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/922a491b408e1aefb5f9d240e09ad3bcd97b07a5.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_29",
+          "displayName": "Hogar, ordenado hogar",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/5bede8aff462755d9e9a70f094e6761f2742704c.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/34ea813ce074eb41bc272732a8c1722699365783.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_30",
+          "displayName": "Dominio de las conchas",
+          "description": "Lleva todas las conchas a Mirna en Villadocarri",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/35e25ffbc87a5f4dee0ac382fa167ebb646fac76.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/cab986ea21b18db78ae91ea2d5c12d5fe109debb.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_31",
+          "displayName": "Experto en pesca",
+          "description": "Atrapa a peces de todas las especies al menos una vez",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/e785a4509e3c39330910c16bba805c7a6d72b63b.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/e4405d32b26c9861b6705672c77f99463c471732.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_32",
+          "displayName": "Enciclopedia andante",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/6f8961a6002373e4cdf8082d2e959c49b2ca6d25.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/0fe6bee77a4420c0e4f5375894c8a25a6380744b.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_33",
+          "displayName": "Nuevo Garl +",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/44c803dfc2dac01bc0254bcec8bf846ec63d75b6.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/8d796ea66d7ec38f47abfb74136e7297a41c4f44.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_34",
+          "displayName": "No es mi dios",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/b0994ec5862650a4bcef0b4b27c4bda7f2a7447a.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/06f323be9980e9837aeb498cc7d89a1cf93572c6.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_35",
+          "displayName": "Rebotes",
+          "description": "Haz rebotar un lunerang 25 veces seguidas",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/bbeff4630a91aa9c2737be3812fb2eb21879f1e8.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/6facae701b87ebbb488ad4da23eb42d8817748ce.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_36",
+          "displayName": "As de los candados",
+          "description": "Rompe en total 50 candados en combate",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/c8dd4d04cab26be2e03d8d97c16c37d3a5ce1f3b.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/30bbafb6cc0fc0dfcb545e83f1a4fcfb37a0b8ac.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_37",
+          "displayName": "¡Menuda técnica!",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/b052d089bf42c7cd22aeb8a38f9cc94e30471d09.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/bf994df67b9ee4c2419ec4b3e9f84c8259e44d4c.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_38",
+          "displayName": "Finalización gustativa",
+          "description": "Prepara todas las recetas al menos una vez",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/3861a98a5942cc7d17a82c2d45e05e0304678b0a.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/7673368a8136f685ea1d36548fc0346494f8ada0.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_39",
+          "displayName": "A tope",
+          "description": "Desbloquea todos los combos",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/0b3579848e4b798c6769d3b47dd4b2759a23816a.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/1b31d63f0aa0a40dcc57eb070c2bbeb04c9416ae.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_40",
+          "displayName": "Bien versado",
+          "description": "Escucha todas las historias alrededor de la hoguera",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/e559bc29182a50230681d1a63b6845f402917eff.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/1015b3bcef2d3df563148724cd668d3a21e848b9.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_41",
+          "displayName": "Cazacofres",
+          "description": "Encuentra todos los tesoros",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/96cdeff2e827af7b179399a0f8734809098e860a.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/b4c9abc292b0d0112bee9c7a6ba268c8fa7377d0.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_42",
+          "displayName": "Un día para mí",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/c8d640262216da966614b3472a1aae64038ed024.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/81589a13a21c1e8ed1a3f4f600c3bc42b9a82908.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_43",
+          "displayName": "Poder tortuga",
+          "description": "Realiza un bloqueo cronometrado con tres jugadores",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/52d28d75190194ed0ae475429ee6df68a4ed52dc.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/e1fdeeab59a2777cf66d46452c646cc02202ec86.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_44",
+          "displayName": "Lente de verificación",
+          "description": "Revela un candado rompiéndolo o usando un movimiento especial con la función de escaneado",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/d141651289f330e9c44a0d5d6f00c4e5e328329f.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/0ac0a7489b4d148bccab2453aa0a3eb5abfa4319.jpg",
+          "achieved": true,
+          "unlocktime": 1795820225
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_45",
+          "displayName": "Poder de equipo",
+          "description": "Realiza un golpe o un bloqueo cronometrado en equipo",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/143da9002300107080d1348027d168a5c3d5e838.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/e4dbd463365f8c2f3296bfaa0d463abb689e0746.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_46",
+          "displayName": "Choques de cinco",
+          "description": "Prueba todas las combinaciones de chocar los cinco",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/c0bec8603ab4181e89d15333d45e5ebc49343a56.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/bde3f964bc67e2faac4e669247de50d41892cbef.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_47",
+          "displayName": "Excursión de pesca",
+          "description": "Pesca al menos un pez con cada personaje",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/87c1dcb0c41d697ae6cf2e6b83560ebe9ef9d3f9.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/7f5c8280f50ae7d2502d180c488bbd21349764c8.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_48",
+          "displayName": "¡Estoy andando!",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/7537fe668cf0d9deb9169917e5b77ed1242be705.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/73cc7572a970bdbc26768b74f5b95bf430a85d98.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_49",
+          "displayName": "Estrella de la pista",
+          "description": "Desbloquea todas las habilidades y combos de las clases de circo.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/4c2d5d84f8f738796c283686dc22ba1650fcc005.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/728d7d73c23082b202ea39cf3309585ddc353b1a.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_50",
+          "displayName": "Carnaval culinario",
+          "description": "Prepara cada una de las cinco recetas de Horloge por lo menos una vez.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/078436f64fe7e89817692c1689384ce88a593d0e.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/b2591e338e4476b291d7cfe36779f51787426614.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_51",
+          "displayName": "Hechicerador",
+          "description": "Gana a todos los campeones de Girarrodillos de Horloge.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/9b6d5f754363f5e4b4c90d81f5a2ae17cddf578a.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/8a1da0be3b5e6bfbf19a730da9df5fa7bc0b5631.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_52",
+          "displayName": "Maravilla imbatible",
+          "description": "Queda en primera posición en los tres minijuegos de Horloge",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/f79b0a62c85d266514027d1591141a1d708ab4bc.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/79fda364aef7881f6fd0b9e1a591d7d90578fabf.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_53",
+          "displayName": "Mecaninunca",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/fce16a9565947437999629aaa1f86db7ffdf809c.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/3976955848f9e9ca1bb5e98a6c1c9e8252056c02.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        },
+        {
+          "name": "SOS_ACHIEVEMENT_54",
+          "displayName": "¿Qué significa esto?",
+          "description": "",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/71bec74ac7106694c03b8bc99f3865c8dd597d93.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/b8f2f5476250536544c9c797d1c5bda0305951b6.jpg",
+          "achieved": false,
+          "unlocktime": 0
+        }
+      ]
+    },
+    {
       "appid": 2073620,
       "name": "Arena Breakout: Infinite",
       "playtime_forever_min": 110,
@@ -41577,506 +42077,6 @@
           "description": "¡Has derrotado a los guardianes de The Center!",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/346110/ca12906cdce5c19b7ace3692d53e0daf4a1f8f7b.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/346110/111dc28ebbcd4e27eb1def19defc651bc9950dae.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        }
-      ]
-    },
-    {
-      "appid": 1244090,
-      "name": "Sea of Stars: Sunset Edition",
-      "playtime_forever_min": 60,
-      "playtime_2weeks_min": 45,
-      "rtime_last_played": 1794777613,
-      "img_icon_url": "529d0f064196911482aeeb8f42ffcc1ff77fed67",
-      "totalAchievements": 54,
-      "unlockedAchievements": 0,
-      "percent": 0,
-      "completed": false,
-      "achievements": [
-        {
-          "name": "SOS_ACHIEVEMENT_1",
-          "displayName": "Babosa vencida",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/e3b498b9c72f882c56a7d8cde6421f0261c46e18.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/d0c8505fa7c9dd716ad763f6029ac837647ca08c.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_2",
-          "displayName": "¡No, espera!",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/4f56beb2d6a53f58484522c853f919f96bde163f.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/4a76607269126ccafe04ecade3eb8157f8bea106.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_3",
-          "displayName": "Misión de recuperación",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/5a77a9a4a554abe777c43f5868c9fdf1b5afa96e.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/6e0465d039155078f977230b312f987c27c2098b.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_4",
-          "displayName": "¡Dame eso ya!",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/e8a2b769a7e6a1a52283e88e07a3fe96a95506b1.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/d71089320e051d461ce2e98823c38e8617b2c126.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_5",
-          "displayName": "Morador de la Aflicción",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/574f3588508ce58b835d9aecbfc35131fe92da99.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/994ad1c756eaa7a9c21f58a86275cb6a844646a5.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_6",
-          "displayName": "¿Quién lo hubiera imaginado?",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/657d63cc98bcaec98fbff4d90bb686d5ae3cb18e.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/d38c57b5693279ed38683839282d57cca1c59894.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_7",
-          "displayName": "¡Oye, tú!",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/ab7a3a6d169007ae97335d9402097d69ef26bb08.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/1bcdd474554a6f5bce3bb8d668f3aeaf67f6f7e8.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_8",
-          "displayName": "Hogar, dulce hogar",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/129e59c4a18df851b7e08f7c7b72b61b3f3b54c6.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/83601a7f19d385d6fed2694f0b673b5aa770e21f.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_9",
-          "displayName": "Poder del Solsticio",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/0d2eb36970486cf67bf503a03875e0f8b3c611b4.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/8624c9285b5a9375f5c6c0d7956aaab1895ef47b.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_10",
-          "displayName": "Morador del Tormento",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/753d1f5116c4913d8132cbe012c9626d7816acbf.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/ed20eed4052d5baa4b83757e92011df317297b08.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_11",
-          "displayName": "Desperdicio caído",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/4e6512cc5e1e3d280050b6c92fd921148a084ba3.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/11854cf4c652040f17fb47ac368e69667bc10fb1.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_12",
-          "displayName": "¡Y no os levantéis!",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/f1d681bb380f7b9a0bcebcaf8123820b6595f03a.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/bce85b465668360a63aed7fb79a0f37df6801c46.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_13",
-          "displayName": "Morador del Conflicto",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/ad7b102739ec596de12b7eb3bfad8abdbe91b95c.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/85c678d728422a3e2a23a1e682b265c0d7bbae21.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_14",
-          "displayName": "Combate el fuego con fuerza lunar",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/ffe4bd4c8b3c9b87fdc07e32cac4da32ab489f63.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/ab6df1fc9e092ab4681a431290b05a8c790823df.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_15",
-          "displayName": "El Cocinero Guerrero",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/0438d801ea7a0638cc523d037ce1bee1bb60e936.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/11f11cbb85ed6974ccd2908f680bdf2b8b52811a.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_16",
-          "displayName": "¿Quién lo hubiera imaginado? Parte 2",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/a71026d8051e9e72b2e80bca86b8f297568f87cd.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/c5aa22ded1f772eb1e6c2788d414af20e85d3f09.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_17",
-          "displayName": "Barbilla en alto",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/45687690273610aece4607e44a4a3b6ab3ab3f32.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/be8220a4cbd4c9b1a2d371c296a67400c452ebee.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_18",
-          "displayName": "Peso pluma",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/d42b4f043ab4a37d7fe0254f124108a21a242eea.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/4b097d86a1a49e4e91f3e35081a8496877a761c8.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_19",
-          "displayName": "Entra en el Artífice",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/dbb0ddc9c81d1bfd267d32514e2fb1d901c82040.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/80665bc0ce347928194750f4cd8a3352946653eb.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_20",
-          "displayName": "Morador del Terror",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/6ca4179a5111e7af633b71bf922a9080d748b3a7.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/e973fd97e817c7fd773b5de2ef4555f685931241.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_21",
-          "displayName": "Pedanteniente",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/86233fc2860a7f50304081acce020b09b359e5dc.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/fa5729121a490a88835ae53cf30430adf604afcd.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_22",
-          "displayName": "Campeón mecánico",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/d1b06137e2fe510f7e39cffabd9d5945041e5348.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/b2dda061b572913cf08ac149c73889b5e4e164b7.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_23",
-          "displayName": "Comida sana",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/1d92afc3fc3b95fcc9d4de291d6b0d22da3c58d6.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/dc4593e8b5eac5a3fddab78c347ec566b86f1fbf.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_24",
-          "displayName": "Mejor muerta",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/6930081c9f8f2a12f39e657b8cefb73ee05ce0d6.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/1e48f03a476a918dde193f6f88a0ae009d749ffc.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_25",
-          "displayName": "¡Vaya, un nuevo aspecto!",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/83649c61b962758010fba3bc11c9266886b17aba.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/fcc954e719dfd85cf991d5a684c7a6128713e126.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_26",
-          "displayName": "Ancestro castigado",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/9295444d16cb09c9ffeedb0c8021b3362d92ac70.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/42e64f29a7745065427f2f9d9904657f6d616fce.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_27",
-          "displayName": "Vidriator",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/3967d96496960d6b421114f23cd39b3cff216e8a.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/d1f560af1fa44fd4ac283381e0498d18442639f1.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_28",
-          "displayName": "Libre de la serviduque",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/c18eb6fe12b5037613fe62522486f8323ecd306d.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/922a491b408e1aefb5f9d240e09ad3bcd97b07a5.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_29",
-          "displayName": "Hogar, ordenado hogar",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/5bede8aff462755d9e9a70f094e6761f2742704c.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/34ea813ce074eb41bc272732a8c1722699365783.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_30",
-          "displayName": "Dominio de las conchas",
-          "description": "Lleva todas las conchas a Mirna en Villadocarri",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/35e25ffbc87a5f4dee0ac382fa167ebb646fac76.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/cab986ea21b18db78ae91ea2d5c12d5fe109debb.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_31",
-          "displayName": "Experto en pesca",
-          "description": "Atrapa a peces de todas las especies al menos una vez",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/e785a4509e3c39330910c16bba805c7a6d72b63b.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/e4405d32b26c9861b6705672c77f99463c471732.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_32",
-          "displayName": "Enciclopedia andante",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/6f8961a6002373e4cdf8082d2e959c49b2ca6d25.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/0fe6bee77a4420c0e4f5375894c8a25a6380744b.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_33",
-          "displayName": "Nuevo Garl +",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/44c803dfc2dac01bc0254bcec8bf846ec63d75b6.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/8d796ea66d7ec38f47abfb74136e7297a41c4f44.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_34",
-          "displayName": "No es mi dios",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/b0994ec5862650a4bcef0b4b27c4bda7f2a7447a.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/06f323be9980e9837aeb498cc7d89a1cf93572c6.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_35",
-          "displayName": "Rebotes",
-          "description": "Haz rebotar un lunerang 25 veces seguidas",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/bbeff4630a91aa9c2737be3812fb2eb21879f1e8.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/6facae701b87ebbb488ad4da23eb42d8817748ce.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_36",
-          "displayName": "As de los candados",
-          "description": "Rompe en total 50 candados en combate",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/c8dd4d04cab26be2e03d8d97c16c37d3a5ce1f3b.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/30bbafb6cc0fc0dfcb545e83f1a4fcfb37a0b8ac.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_37",
-          "displayName": "¡Menuda técnica!",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/b052d089bf42c7cd22aeb8a38f9cc94e30471d09.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/bf994df67b9ee4c2419ec4b3e9f84c8259e44d4c.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_38",
-          "displayName": "Finalización gustativa",
-          "description": "Prepara todas las recetas al menos una vez",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/3861a98a5942cc7d17a82c2d45e05e0304678b0a.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/7673368a8136f685ea1d36548fc0346494f8ada0.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_39",
-          "displayName": "A tope",
-          "description": "Desbloquea todos los combos",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/0b3579848e4b798c6769d3b47dd4b2759a23816a.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/1b31d63f0aa0a40dcc57eb070c2bbeb04c9416ae.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_40",
-          "displayName": "Bien versado",
-          "description": "Escucha todas las historias alrededor de la hoguera",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/e559bc29182a50230681d1a63b6845f402917eff.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/1015b3bcef2d3df563148724cd668d3a21e848b9.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_41",
-          "displayName": "Cazacofres",
-          "description": "Encuentra todos los tesoros",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/96cdeff2e827af7b179399a0f8734809098e860a.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/b4c9abc292b0d0112bee9c7a6ba268c8fa7377d0.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_42",
-          "displayName": "Un día para mí",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/c8d640262216da966614b3472a1aae64038ed024.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/81589a13a21c1e8ed1a3f4f600c3bc42b9a82908.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_43",
-          "displayName": "Poder tortuga",
-          "description": "Realiza un bloqueo cronometrado con tres jugadores",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/52d28d75190194ed0ae475429ee6df68a4ed52dc.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/e1fdeeab59a2777cf66d46452c646cc02202ec86.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_44",
-          "displayName": "Lente de verificación",
-          "description": "Revela un candado rompiéndolo o usando un movimiento especial con la función de escaneado",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/d141651289f330e9c44a0d5d6f00c4e5e328329f.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/0ac0a7489b4d148bccab2453aa0a3eb5abfa4319.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_45",
-          "displayName": "Poder de equipo",
-          "description": "Realiza un golpe o un bloqueo cronometrado en equipo",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/143da9002300107080d1348027d168a5c3d5e838.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/e4dbd463365f8c2f3296bfaa0d463abb689e0746.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_46",
-          "displayName": "Choques de cinco",
-          "description": "Prueba todas las combinaciones de chocar los cinco",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/c0bec8603ab4181e89d15333d45e5ebc49343a56.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/bde3f964bc67e2faac4e669247de50d41892cbef.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_47",
-          "displayName": "Excursión de pesca",
-          "description": "Pesca al menos un pez con cada personaje",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/87c1dcb0c41d697ae6cf2e6b83560ebe9ef9d3f9.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/7f5c8280f50ae7d2502d180c488bbd21349764c8.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_48",
-          "displayName": "¡Estoy andando!",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/7537fe668cf0d9deb9169917e5b77ed1242be705.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/73cc7572a970bdbc26768b74f5b95bf430a85d98.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_49",
-          "displayName": "Estrella de la pista",
-          "description": "Desbloquea todas las habilidades y combos de las clases de circo.",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/4c2d5d84f8f738796c283686dc22ba1650fcc005.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/728d7d73c23082b202ea39cf3309585ddc353b1a.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_50",
-          "displayName": "Carnaval culinario",
-          "description": "Prepara cada una de las cinco recetas de Horloge por lo menos una vez.",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/078436f64fe7e89817692c1689384ce88a593d0e.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/b2591e338e4476b291d7cfe36779f51787426614.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_51",
-          "displayName": "Hechicerador",
-          "description": "Gana a todos los campeones de Girarrodillos de Horloge.",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/9b6d5f754363f5e4b4c90d81f5a2ae17cddf578a.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/8a1da0be3b5e6bfbf19a730da9df5fa7bc0b5631.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_52",
-          "displayName": "Maravilla imbatible",
-          "description": "Queda en primera posición en los tres minijuegos de Horloge",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/f79b0a62c85d266514027d1591141a1d708ab4bc.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/79fda364aef7881f6fd0b9e1a591d7d90578fabf.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_53",
-          "displayName": "Mecaninunca",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/fce16a9565947437999629aaa1f86db7ffdf809c.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/3976955848f9e9ca1bb5e98a6c1c9e8252056c02.jpg",
-          "achieved": false,
-          "unlocktime": 0
-        },
-        {
-          "name": "SOS_ACHIEVEMENT_54",
-          "displayName": "¿Qué significa esto?",
-          "description": "",
-          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/71bec74ac7106694c03b8bc99f3865c8dd597d93.jpg",
-          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244090/b8f2f5476250536544c9c797d1c5bda0305951b6.jpg",
           "achieved": false,
           "unlocktime": 0
         }
